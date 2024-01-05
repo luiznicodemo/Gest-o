@@ -1,2 +1,2 @@
-# Gest-o
-Local onde são atualizados documentos e apresentações relacionadas a gestão de projetos entre outros
+
+Local onde armazeno documentos de apresentação e scripts focados na minha vivência profissional.
